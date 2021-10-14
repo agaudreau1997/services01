@@ -1,0 +1,25 @@
+{
+  "name": "services01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arealundead/services01.git"
+  },
+  "author": "Alexandre Gaudreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arealundead/services01/issues"
+  },
+  "homepage": "https://github.com/arealundead/services01#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
